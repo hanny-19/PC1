@@ -11,8 +11,8 @@
 2. Descomprimir el ZIP
 3. Crear un fork de este repositorio [(Screenshot)](https://prnt.sc/1s1z9rt)
 4. Subir los archivos de tu solución a la rama correspondiente [(Screenshot de Ejemplo)](https://prnt.sc/1s1zfid)
-5. Dar click sobre Pull requests
-6. Crear un nuevo pull request
+5. Dar click sobre Pull requests [(Screenshot de Ejemplo)](https://prnt.sc/1s1zoqa)
+6. Crear un nuevo pull request 
 7. Asegurarse de que la rama que estas comparando es la rama en la que subiste los archivos de tu solución
 8. Asegurarse de que la rama con la que estas comprando tu rama es la rama de la pregunta desarrollada
 9. Enviar pull request
