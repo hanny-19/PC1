@@ -15,4 +15,4 @@
 6. Crear un nuevo pull request [(Screenshot de Ejemplo)](https://prnt.sc/1s2017e)
 7. Asegurarse de que la rama que estas comparando es la rama en la que subiste los archivos de tu solución
 8. Asegurarse de que la rama con la que estas comprando tu rama es la rama de la pregunta desarrollada
-9. Enviar pull request
+9. Enviar/Confirmar pull request
