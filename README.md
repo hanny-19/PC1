@@ -9,7 +9,7 @@
 ### Usando GitHub
 1. Descargar el proyecto de Replit de la pregunta resuelta en formato ZIP [(Screenshot)](https://prnt.sc/1s1ykjm)
 2. Descomprimir el ZIP
-3. Crear un fork de este repositorio
+3. Crear un fork de este repositorio [(Screenshot)](https://prnt.sc/1s1z9rt)
 4. Subir los archivos de tu solución a la rama correspondiente
 5. Dar click sobre Pull requests
 6. Crear un nuevo pull request
