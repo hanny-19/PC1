@@ -6,4 +6,13 @@
 5. Realizar el pull request de la solución del problema a la rama correspondiente de este repositorio
 
 ## ¿Cómo hacer un pull request?
-Lorem ipsum.
+### Usando GitHub
+1. Descargar el proyecto de Replit de la pregunta resuelta en formato ZIP
+2. Descomprimir el ZIP
+3. Crear un fork de este repositorio
+4. Subir los archivos de tu solución a la rama correspondiente
+5. Dar click sobre Pull requests
+6. Crear un nuevo pull request
+7. Asegurarse de que la rama que estas comparando es la rama en la que subiste los archivos de tu solución
+8. Asegurarse de que la rama con la que estas comprando tu rama es la rama de la pregunta desarrollada
+9. Enviar pull request
