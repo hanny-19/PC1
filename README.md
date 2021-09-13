@@ -7,7 +7,7 @@
 
 ## ¿Cómo hacer un pull request?
 ### Usando GitHub
-1. Descargar el proyecto de Replit de la pregunta resuelta en formato ZIP
+1. Descargar el proyecto de Replit de la pregunta resuelta en formato ZIP [(Screenshot)](https://prnt.sc/1s1ykjm)
 2. Descomprimir el ZIP
 3. Crear un fork de este repositorio
 4. Subir los archivos de tu solución a la rama correspondiente
